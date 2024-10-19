@@ -1,1 +1,1 @@
-# Yapay-Zeka-Lab-devlerim
+# Yapay-Zeka-Lab-Ödevlerim
